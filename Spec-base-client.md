@@ -82,7 +82,7 @@ UI Layer (package ui) // Paquete encargado de la interfaz de usuario del cliente
 
 		+ MapPanel mapPanel // Panel encargado de representar visualmente el mapa y sus elementos
 		+ HUDPanel hudPanel // Panel encargado de mostrar informacion de la partida
-		- void initializeWindow() // Configura la ventana utilizando las constantes de tamano definidas
+		- void initializeWindow() // Configura la ventana utilizando las constantes de tamaño definidas
 	
 	class MapPanel implements Observer // Panel que dibuja el mapa y actualiza su vista
 
