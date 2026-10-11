@@ -1,10 +1,10 @@
-Spec cliente - Caso 2 POO
+Spec client - Caso 2 POO
 
 Constants (package constants)
 
 	interface IConstants // Centraliza los valores fijos y parametros configurables
 
-    		+ int initialEnergyPlayer = 20 // Energia inicial de cada animal perteneciente al pack de un jugador
+    	+ int initialEnergyPlayer = 20 // Energia inicial de cada animal perteneciente al pack de un jugador
 		+ int initialEnergyBot = 10 // Energia inicial de cada animal perteneciente a un pack bot
 		+ int maxAmountCoffee = 10 // Cantidad total de tazas de cafe disponibles en la partida
 		+ int maxEnergy = 20 // Energia maxima que puede alcanzar un animal del pack de un jugador
