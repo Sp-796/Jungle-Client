@@ -1,0 +1,35 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+release.properties
+
+# IDE / editores
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+*.launch
+nbproject/
+build/
+out/
+bin/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y temporales
+*.log
+hs_err_pid*
+replay_pid*
+*.tmp
+*.bak
+
+# Capturas locales que no sean la documentacion oficial
+/screenshots/
